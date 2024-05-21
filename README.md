@@ -1,6 +1,4 @@
-Here's a sample README.md for your project:
 
-```markdown
 # Video File Enumeration and Download
 
 This Python script allows you to enumerate and download video files from a given base URL. It supports resuming downloads, merging downloaded files into a single file, and converting the merged file to various output formats.
@@ -71,4 +69,3 @@ python ine_enum.py [-h] [-s START] [-p PROGRESS_FILE] [-d] [-y] [-m] [-o OUTPUT]
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
