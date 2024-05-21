@@ -23,7 +23,7 @@ This Python script allows you to enumerate and download video files from a given
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/video-file-downloader.git
+   git clone https://github.com/advxrsary/sorryine.git
    ```
 
 2. Install the required libraries:
